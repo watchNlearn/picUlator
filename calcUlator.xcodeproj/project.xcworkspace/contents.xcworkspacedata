@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:calcUlator.xcodeproj">
+      location = "self:/Users/caleblee/Desktop/calcUlator/picUlator.xcodeproj">
    </FileRef>
 </Workspace>
